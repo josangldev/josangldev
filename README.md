@@ -46,7 +46,7 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 ---
 
 "Construyendo interfaces con código limpio, pasión y creatividad."  
-— JosanglDev
+JosanglDev
 
 <img src="./assets/back.png" alt="Back" width="250" />
 
