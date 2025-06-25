@@ -8,9 +8,9 @@ Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesib
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
 
----
-
 </div>
+
+---
 
 ## 🧠 Skills
 
@@ -41,16 +41,19 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 
 ---
 
-<div align="center">
-
 ## 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosanglDev)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JosanglDev)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl.josea90@gmail.com)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosanglDev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JosanglDev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl.josea90@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="./assets/back.png" alt="Back" width="250" />
+
+"Construyendo interfaces con código limpio, pasión y creatividad."  
+JosanglDev
+
+<img src="./assets/back.png" alt="Back" width="250" />
+
 </div>
