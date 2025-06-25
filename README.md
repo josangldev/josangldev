@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy José Antonio García
 
-![Programador escribiendo](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
+
 
 Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS** y herramientas como **Vite**, **GitHub** y la **terminal**.
 
