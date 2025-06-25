@@ -1,12 +1,12 @@
+<div align="center">
+
+<img src="./assets/front.png" alt="Front" width="250" />
+
 # 👋 ¡Hola! Soy José Antonio García López
 
-<img src="./assets/front.png" alt="Front" width="250" height="auto" />
-
+Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS**, **React** y herramientas como **Vite**, **GitHub** y la **terminal**.
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
-
-
-Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS**, **React** y herramientas como **Vite**, **GitHub** y la **terminal**.
 
 ---
 
@@ -50,4 +50,7 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 > "Construyendo interfaces con código limpio, pasión y creatividad."  
 > — JosanglDev
 
-<img src="./assets/back.png" alt="Back" width="250" height="auto" />
+<img src="./assets/back.png" alt="Back" width="250" />
+
+</div>
+
