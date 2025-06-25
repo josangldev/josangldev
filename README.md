@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy José Antonio García López
 
-<img src="./assets/front.png" alt="Front" width="250" />
+<img src="./assets/front.png" alt="Front" width="250" height=auto />
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
