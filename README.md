@@ -50,8 +50,8 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 
 <div align="center">
 
-> "Construyendo interfaces con código limpio, pasión y creatividad."  
-> — JosanglDev
+"Construyendo interfaces con código limpio, pasión y creatividad."  
+JosanglDev
 
 <img src="./assets/back.png" alt="Back" width="250" />
 
