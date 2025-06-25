@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy José Antonio García
 
+![Programador escribiendo](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+
 Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS** y herramientas como **Vite**, **GitHub** y la **terminal**.
 
 ---
@@ -43,3 +45,4 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 
 > "Construyendo interfaces con código limpio, pasión y creatividad."  
 > — José Antonio
+
