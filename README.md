@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy José Antonio García López
 
-![Front](./asesets/front.png)
+![Front](./assets/front.png)
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
 
@@ -49,4 +49,4 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 > "Construyendo interfaces con código limpio, pasión y creatividad."  
 > — JosanglDev
 
-![Back](./asesets/back.png)
+![Back](./assets/back.png)
