@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy José Antonio García
+# 👋 ¡Hola! Soy José Antonio García López
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
 
 
-Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS** y herramientas como **Vite**, **GitHub** y la **terminal**.
+Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS**, **React** y herramientas como **Vite**, **GitHub** y la **terminal**.
 
 ---
 
@@ -22,15 +22,15 @@ Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesib
 
 ---
 
-## 🚀 Proyectos destacados *(en desarrollo)*
+## 🚀 Proyectos *(en desarrollo)*
 
 Estoy trabajando en varios proyectos personales que estarán disponibles muy pronto. Aquí una vista previa de lo que estoy preparando:
 
 | Proyecto             | Descripción                                                                 | Tecnologías           | Estado             |
 |----------------------|-----------------------------------------------------------------------------|------------------------|--------------------|
-| 🗾 Japón Interactivo | Web sobre festivales tradicionales y comida japonesa                        | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
-| 🧬 Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
-| 🎮 Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
+| Japón Interactivo | Web sobre festivales tradicionales y comida japonesa                        | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
+| Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
+| Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
 
 👉 *Muy pronto subiré estos proyectos y podrás verlos en acción desde mi perfil.*
 
@@ -45,5 +45,5 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 ---
 
 > "Construyendo interfaces con código limpio, pasión y creatividad."  
-> — José Antonio
+> — JosanglDev
 
