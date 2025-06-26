@@ -51,7 +51,7 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 
 <div align="center">
 
-"No les tengas miedo a los bugs, son tus mejores maestros." 
+"No le tengas miedo a los bugs, son tus mejores maestros." 
 
 <img src="./assets/back.png" alt="Back" width="500" />
 
