@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/front.png" alt="Front" width="700" />
+  <img src="./assets/front.png" alt="Front" width="250" style="border-radius: 50%;" />
 
   # ¡Hola👋! Soy Jose Antonio García López
 
