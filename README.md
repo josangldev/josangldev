@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="./assets/front.png" alt="Front" width="250" />
+  <img src="./assets/front.png" alt="Front" width="250" />
 
-# 👋 ¡Hola! Soy José Antonio García López
+  # ¡Hola👋! Soy Jose Antonio García López
 
-Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesibles y dinámicas. Me encanta trabajar con tecnologías modernas como **HTML**, **JavaScript**, **Sass**, **Tailwind CSS**, **React** y herramientas como **Vite**, **GitHub** y la **terminal**.
+  Soy desarrollador frontend y disfruto construir cosas desde cero, ver cómo una idea toma forma en la pantalla. Me apasiona el mundo web, trabajar con tecnologías modernas y seguir creciendo día a día en este camino que tanto me entusiasma.Me considero una persona comunicativa, que trabaja bien en equipo y afronta los problemas como oportunidades para aprender y mejorar constantemente.
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=32CD32&center=true&width=400&height=80)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Antonio+García&lines=Desarrollador+Frontend&font=Fira+Code&pause=1500&color=FF4500&center=true&width=400&height=80)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -29,7 +30,7 @@ Soy **desarrollador frontend** apasionado por crear interfaces visuales, accesib
 
 ## 🚀 Proyectos *(en desarrollo)*
 
-Estoy trabajando en varios proyectos personales que estarán disponibles muy pronto. Aquí una vista previa de lo que estoy preparando:
+Estoy trabajando en varios proyectos personales que estarán disponibles muy pronto. Aquí una vista previa de lo que estoy preparando, ordenados según iré subiendo:
 
 | Proyecto             | Descripción                                                                 | Tecnologías           | Estado             |
 |----------------------|-----------------------------------------------------------------------------|------------------------|--------------------|
@@ -37,20 +38,20 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 | Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
 | Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
 
-👉 *Muy pronto subiré estos proyectos y podrás verlos en acción desde mi perfil.*
+👉 *Muy pronto subiré estos proyectos*
 
 ---
 
 ## 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosanglDev)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JosanglDev)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl.josea90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-antonio-garc%C3%ADa-l%C3%B3pez-4ba263347/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl.josea90@gmail.com)
 
 
 ---
 
 <div align="center">
 
-"Construyendo interfaces con código limpio, pasión y creatividad."  
+"No les tengas miedo a los bugs, sn tus mejores maestros."  
 JosanglDev
 
 <img src="./assets/back.png" alt="Back" width="250" />
