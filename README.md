@@ -34,9 +34,9 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 
 | Proyecto             | Descripción                                                                 | Tecnologías           | Estado             |
 |----------------------|-----------------------------------------------------------------------------|------------------------|--------------------|
-| Japón Interactivo | Web sobre festivales tradicionales y comida japonesa                        | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
-| Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
-| Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | HTML, JavaScript, Sass | 🛠️ En desarrollo    |
+| Japón Interactivo | Web sobre festivales tradicionales y comida japonesa                        | ---- | 🛠️ En desarrollo    |
+| Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | ---- | 🛠️ En desarrollo    |
+| Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | ---- | 🛠️ En desarrollo    |
 
 👉 *Muy pronto subiré estos proyectos*
 
