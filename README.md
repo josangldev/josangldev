@@ -38,7 +38,7 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 | Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | ---- | 🛠️ En desarrollo    |
 | Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | ---- | 🛠️ En desarrollo    |
 
-👉 *Muy pronto subiré estos proyectos*
+👉 *Muy pronto subiré estos proyectos*.
 
 ---
 
@@ -52,7 +52,7 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 <div align="center">
 
 "No les tengas miedo a los bugs, sn tus mejores maestros."  
-JosanglDev
+-JosanglDev-
 
 <img src="./assets/back.png" alt="Back" width="250" />
 
