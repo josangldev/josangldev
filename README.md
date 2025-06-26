@@ -15,6 +15,8 @@
 
 ## 🧠 Skills
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -26,11 +28,17 @@
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Proyectos *(en desarrollo)*
 
+<div align="center">
+
 Estoy trabajando en varios proyectos personales que estarán disponibles muy pronto. Aquí una vista previa de lo que estoy preparando, ordenados según iré subiendo:
+
+</div>
 
 | Proyecto             | Descripción                                                                 | Tecnologías           | Estado             |
 |----------------------|-----------------------------------------------------------------------------|------------------------|--------------------|
@@ -38,14 +46,21 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 | Pokédex Kanto     | Pokédex interactiva con estadísticas, trivial de Pokémon y música de fondo  | ---- | 🛠️ En desarrollo    |
 | Resident Evil Fan Page | Web temática con guías completas al 100%, historia, noticias y secciones detalladas sobre jefes, armas y más | ---- | 🛠️ En desarrollo    |
 
+<div align="center">
+
 👉 *Muy pronto subiré estos proyectos*.
+
+</div>
 
 ---
 
 ## 📫 Contacto
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-antonio-garc%C3%ADa-l%C3%B3pez-4ba263347/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl.josea90@gmail.com)
 
+</div>
 
 ---
 
