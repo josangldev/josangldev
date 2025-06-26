@@ -54,6 +54,6 @@ Estoy trabajando en varios proyectos personales que estarán disponibles muy pro
 "No les tengas miedo a los bugs, sn tus mejores maestros."  
 -JosanglDev-
 
-<img src="./assets/back.png" alt="Back" width="250" />
+<img src="./assets/back.png" alt="Back" width="500" />
 
 </div>
