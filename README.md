@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="./assets/front.png" alt="Front" width="250" style="border-radius: 50%;" />
-
   # ¡Hola👋! Soy Jose Antonio García López
 
   Soy desarrollador frontend y disfruto construir cosas desde cero, ver cómo una idea toma forma en la pantalla. Me apasiona el mundo web, trabajar con tecnologías modernas y     seguir creciendo día a día en este camino que tanto me entusiasma.Me considero una persona comunicativa, que trabaja bien en equipo y afronta los problemas como oportunidades   para aprender y mejorar constantemente.
@@ -25,8 +23,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
