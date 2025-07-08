@@ -44,14 +44,14 @@ Me considero una persona comunicativa, que trabaja bien en equipo y afronta los 
 Estos son algunos de los proyectos personales que tengo actualmente en desarrollo:
 </div>
 
-| Proyecto                      | Descripción                                                                                                            | Tecnologías principales                                     | Estado             |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------|
-| Japón Interactivo             | Sitio web informativo sobre festivales tradicionales y gastronomía japonesa, con modo claro/oscuro                   | HTML, Tailwind CSS, JavaScript                              | 🛠️ En desarrollo    |
-| Pokédex Kanto                | Pokédex con estadísticas base, trivial interactivo y música de fondo                                                  | HTML, SCSS, JavaScript                                      | 🛠️ En desarrollo    |
-| Dashboard de Tareas          | Gestor de tareas diarias y semanales con gráficos, traducción i18n y modo claro/oscuro                               | React, TypeScript, Tailwind, Zustand, i18n, Recharts        | 🛠️ En desarrollo    |
-| eCommerce                    | Tienda online con filtros, búsqueda, carrito simulado y sistema de usuario (registro/login) usando Context API        | React, TypeScript, Tailwind, i18n, Context API              | 🛠️ En desarrollo    |
-| Portfolio                    | Mi sitio web personal con animaciones, secciones de contacto, i18n y todos mis proyectos                              | React, TypeScript, Tailwind, Framer Motion, i18n            | 🛠️ En desarrollo    |
-| Resident Evil Fan Page       | Web temática con guías completas al 100%, historia, secciones de jefes, armas, foro y más                             | HTML, SCSS, JavaScript                                      | 🛠️ En desarrollo    |
+| Proyecto                      | Descripción                                                                                                            | Tecnologías principales                                                   | Estado             |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------|
+| Japón Interactivo             | Sitio web informativo sobre festivales tradicionales y gastronomía japonesa, con modo claro/oscuro                   | HTML, Tailwind CSS, JavaScript                                            | 🛠️ En desarrollo    |
+| Pokédex Kanto                | Pokédex con estadísticas base, trivial interactivo y música de fondo                                                  | HTML, SCSS, JavaScript                                                    | 🛠️ En desarrollo    |
+| Dashboard de Tareas          | Gestor de tareas diarias y semanales con gráficos, traducción i18n y modo claro/oscuro                               | React, TypeScript, Tailwind, i18n, Recharts                               | 🛠️ En desarrollo    |
+| eCommerce                    | Tienda online con filtros, búsqueda, carrito simulado y sistema de usuario (registro/login) usando Context API        | React, TypeScript, Tailwind, Context API                                  | 🛠️ En desarrollo    |
+| Portfolio                    | Mi sitio web personal con animaciones, secciones de contacto, i18n y todos mis proyectos                              | React, TypeScript, Tailwind, Framer Motion, i18n                          | 🛠️ En desarrollo    |
+| Resident Evil Fan Page       | Web temática con guías al 100%, historia, jefes, armas, foro, modo claro/oscuro y animaciones                         | React, TypeScript, Tailwind, Zustand, GSAP, Framer Motion, Dark/Light     | 🛠️ En desarrollo    |
 
 <div align="center">
   🔗 *Los proyectos estarán enlazados muy pronto desde el portfolio.*
