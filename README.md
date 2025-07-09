@@ -41,7 +41,7 @@ Estos son algunos de los proyectos personales que tengo actualmente en desarroll
 
 | Proyecto                      | Descripción                                                                                                            |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Japón Interactivo             | Sitio web informativo sobre festivales tradicionales y gastronomía japonesa, con modo claro/oscuro                   |
+| Japón Web             | Sitio web informativo sobre festivales tradicionales y gastronomía japonesa, con modo claro/oscuro                   |
 | Pokédex Kanto                | Pokédex con estadísticas base, trivial interactivo y música de fondo                                                  |
 | Dashboard de Tareas          | Gestor de tareas diarias y semanales con gráficos, traducción i18n y modo claro/oscuro                               |
 | eCommerce                    | Tienda online con filtros, búsqueda, carrito simulado y sistema de usuario (registro/login)                           |
