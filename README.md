@@ -34,7 +34,9 @@ Me considero una persona comunicativa, que trabaja bien en equipo y afronta los 
 ## 🚀 Proyectos
 
 <div align="center">
+  
 Estos son algunos de los proyectos personales que tengo actualmente en desarrollo:
+
 </div>
 
 | Proyecto                      | Descripción                                                                                                            |
