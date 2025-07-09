@@ -64,7 +64,11 @@ Estos son algunos de los proyectos personales que tengo actualmente en desarroll
 
 - 🌍 **Inglés B1** certificado por [FreeCodeCamp](https://www.freecodecamp.org/)
 
-> 📚 Las demás herramientas y tecnologías las he aprendido de forma autodidacta, utilizando recursos online como YouTube y siguiendo a referentes como **Midudev** y **MoureDev**.
+> 📚 Aprendizaje continuo a través de múltiples fuentes especializadas del sector, incluyendo canales de YouTube de reconocidos referentes como Midudev y MoureDev, así como desafíos técnicos como el 30 Days of JavaScript Challenge en GitHub.
+Complemento esta formación con el contenido de FreeCodeCamp, estudio guiado por
+documentación oficial, y el uso de herramientas de inteligencia artificial como CursorAI y similares,
+aplicadas tanto como soporte de aprendizaje, como para la optimización de procesos y productividad
+personal.
 
 ---
 
