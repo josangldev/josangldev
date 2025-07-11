@@ -31,18 +31,18 @@ Me considero una persona comunicativa, que trabaja bien en equipo y afronta los 
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Proyectos
 
-### 🇯🇵 Japón - Festividades y Gastronomía
+### Japón - Festividades y Gastronomía
 
 Descubre la riqueza cultural de Japón a través de sus festivales y su gastronomía.  
-Este proyecto es una web estática, visualmente atractiva y responsive, desarrollada con **Vite**, **TailwindCSS** y desplegada en **Vercel**.
+Este proyecto es una web estática, visualmente atractiva y responsive, desarrollada con **Vite**, **TailwindCSS**, **JavaScript** y desplegada en **Vercel**.
 
 🔗 [Ver sitio en producción](https://japon-web.vercel.app/)  
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
 
 <p align="center">
-  <img src="https://github.com/josangldev/japon-web/assets/tu-id/tu-imagen.png" alt="Captura del proyecto Japón" width="700" />
+  <img src="https://github.com/josangldev/japon-web/docs/screenshot-home.png" alt="Captura del proyecto Japón" width="700" />
 </p>
 
 ---
