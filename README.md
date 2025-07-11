@@ -31,27 +31,19 @@ Me considero una persona comunicativa, que trabaja bien en equipo y afronta los 
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Proyecto Destacado
 
-<div align="center">
-  
-Estos son algunos de los proyectos personales que tengo actualmente en desarrollo:
+### 🇯🇵 Japón - Festividades y Gastronomía
 
-</div>
+Descubre la riqueza cultural de Japón a través de sus festivales y su gastronomía.  
+Este proyecto es una web estática, visualmente atractiva y responsive, desarrollada con **Vite**, **TailwindCSS** y desplegada en **Vercel**.
 
-| Proyecto                      | Descripción                                                                                                            |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Japón Web             | Sitio web informativo sobre festivales tradicionales y gastronomía japonesa, con modo claro/oscuro                   |
-| Pokédex Kanto                | Pokédex con estadísticas base, trivial interactivo y música de fondo                                                  |
-| Dashboard de Tareas          | Gestor de tareas diarias y semanales con gráficos, traducción i18n y modo claro/oscuro                               |
-| eCommerce                    | Tienda online con filtros, búsqueda, carrito simulado y sistema de usuario (registro/login)                           |
-| Portfolio                    | Mi sitio web personal con animaciones, secciones de contacto, i18n y todos mis proyectos                              |
-| Resident Evil Fan Page       | Web temática con guías al 100%, historia, jefes, armas, foro, modo claro/oscuro y animaciones                         |
+🔗 [Ver sitio en producción](https://japon-web.vercel.app/)  
+📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
 
-<div align="center">
-  🔗 *Los proyectos estarán enlazados muy pronto desde el portfolio.*
-</div>
-
+<p align="center">
+  <img src="https://github.com/josangldev/japon-web/assets/tu-id/tu-imagen.png" alt="Captura del proyecto Japón" width="700" />
+</p>
 
 ---
 
@@ -67,7 +59,7 @@ Estos son algunos de los proyectos personales que tengo actualmente en desarroll
 
 - 🌍 **Inglés B1** certificado por [FreeCodeCamp](https://www.freecodecamp.org/)
 
-> 📚 Aprendizaje continuo a través de múltiples fuentes especializadas del sector, incluyendo canales de YouTube de reconocidos referentes como Midudev y MoureDev, así como desafíos técnicos como el 30 Days of JavaScript Challenge en GitHub.
+> 📚 Aprendizaje continuo a través de múltiples fuentes especializadas del sector, incluyendo canales de YouTube de reconocidos referentes como Midudev y MoureDev, así como desafíos técnicos como el 30 Days of JavaScript Challenge en GitHub.  
 Complemento esta formación con el contenido de FreeCodeCamp, estudio guiado por
 documentación oficial, y el uso de herramientas de inteligencia artificial como CursorAI y similares,
 aplicadas tanto como soporte de aprendizaje, como para la optimización de procesos y productividad
