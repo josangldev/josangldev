@@ -38,12 +38,12 @@ Me considero una persona comunicativa, que trabaja bien en equipo y afronta los 
 Descubre la riqueza cultural de Japón a través de sus festivales y su gastronomía.  
 Este proyecto es una web estática, visualmente atractiva y responsive, desarrollada con **Vite**, **TailwindCSS**, **JavaScript** y desplegada en **Vercel**.
 
-<p align="center">
+<div align="center">
 
 🔗 [Ver sitio en producción](https://japon-web.vercel.app/)  
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
 
-</p>
+</div>
 
 <p align="center">
   <img src="./assets/screenshot-home.png" alt="japon" width="500" />
