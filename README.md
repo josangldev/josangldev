@@ -42,7 +42,7 @@ Este proyecto es una web estática, visualmente atractiva y responsive, desarrol
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
 
 <p align="center">
-  <img src="https://github.com/josangldev/japon-web/docs/screenshot-home.png" alt="Captura del proyecto Japón" width="700" />
+  <img src="./assets/screenshot-home.png" alt="japon" width="500" />
 </p>
 
 ---
