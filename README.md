@@ -42,12 +42,8 @@ Este proyecto es una web estática, visualmente atractiva y responsive, desarrol
 
 🔗 [Ver sitio en producción](https://japon-web.vercel.app/)  
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
-
-</div>
-
-<p align="center">
   <img src="./assets/screenshot-home.png" alt="japon" width="500" />
-</p>
+</div>
 
 ---
 
