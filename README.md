@@ -73,11 +73,16 @@ Incluye modo claro/oscuro, soporte para múltiples días y traducción i18n.
 Desarrollado con React, JavaScript y TailwindCSS.
 
 <div align="center">
-🔗 [Ver sitio en producción](https://dashboard-sage-tau.vercel.app/)
+  
+🔗 [Ver sitio en producción](https://pokemon-kanto.vercel.app/)
 
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/pokemon-kanto)
 
 <img src="./assets/screen-dash.png" alt="dashboard" width="500" /> </div>
+
+</div>
+
+---
 
 
 ## 🎓 Formación y Certificaciones
