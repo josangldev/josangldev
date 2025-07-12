@@ -66,6 +66,19 @@ Desarrollado con **HTML**, **SCSS** y **JavaScript** puros.
 
 ---
 
+### Dashboard de Tareas - Gestión Personal
+Una aplicación web donde podrás organizar tus tareas diarias, visualizar tu progreso con gráficas y gestionar tu semana de forma clara y productiva.
+Incluye modo claro/oscuro, soporte para múltiples días y traducción i18n.
+
+Desarrollado con React, JavaScript y TailwindCSS.
+
+<div align="center">
+🔗 Ver sitio en producción(https://dashboard-sage-tau.vercel.app/) 
+
+📂 Ver repositorio en GitHub(https://github.com/josangldev/pokemon-kanto)
+
+<img src="./assets/screen-main.png" alt="dashboard" width="500" /> </div>
+
 
 ## 🎓 Formación y Certificaciones
 
