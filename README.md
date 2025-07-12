@@ -76,7 +76,7 @@ Desarrollado con React, JavaScript y TailwindCSS.
   
 🔗 [Ver sitio en producción](https://dashboard-sage-tau.vercel.app/)
 
-📂 [Ver repositorio en GitHub](https://github.com/josangldev/pokemon-kanto)
+📂 [Ver repositorio en GitHub](https://github.com/josangldev/dashboard)
 
 <img src="./assets/screen-dash.png" alt="dashboard" width="500" /> </div>
 
