@@ -40,7 +40,8 @@ Este proyecto es una web estática, visualmente atractiva y responsive, desarrol
 
 <div align="center">
 
-🔗 [Ver sitio en producción](https://japon-web.vercel.app/)  
+🔗 [Ver sitio en producción](https://japon-web.vercel.app/) 
+
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
 
 
@@ -56,6 +57,7 @@ Desarrollado con **HTML**, **SCSS** y **JavaScript** puros.
 <div align="center">
 
 🔗 [Ver sitio en producción](https://pokemon-kanto.vercel.app/)
+
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/pokemon-kanto)
 
 
