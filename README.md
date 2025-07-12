@@ -74,7 +74,7 @@ Desarrollado con React, JavaScript y TailwindCSS.
 
 <div align="center">
   
-🔗 [Ver sitio en producción](https://pokemon-kanto.vercel.app/)
+🔗 [Ver sitio en producción](https://dashboard-sage-tau.vercel.app/)
 
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/pokemon-kanto)
 
