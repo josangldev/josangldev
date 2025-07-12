@@ -50,7 +50,7 @@ Este proyecto es una web estática, visualmente atractiva y responsive, desarrol
 
 ---
 
-### 🔥 Pokémon Kanto - Pokédex y Trivial  
+### Pokémon Kanto - Pokédex y Trivial  
 Una web interactiva donde podrás explorar a los 151 Pokémon de Kanto, acceder a sus estadísticas y jugar a un **trivial** para poner a prueba tus conocimientos.  
 Desarrollado con **HTML**, **SCSS** y **JavaScript** puros.
 
