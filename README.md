@@ -99,6 +99,23 @@ Desarrollado con React, TypeScript y TailwindCSS.
 
 ---
 
+### Portfolio Profesional - Jose Antonio García López
+Un portfolio moderno, minimalista y responsive para presentar mis proyectos, habilidades y experiencia como desarrollador frontend.
+Incluye soporte para modo claro/oscuro, traducción en español e inglés (i18n), animaciones suaves con Framer Motion y un enfoque visual limpio para destacar cada proyecto.
+
+Desarrollado con React, TypeScript, TailwindCSS, Vite y desplegado en Vercel.
+La web incluye un sistema de navegación animado, diseño mobile-first y una presentación cuidada para destacar mis trabajos realizados.
+
+<div align="center">
+  
+🔗 [Ver sitio en producción](https://portfolio-ecru-six-42.vercel.app/)
+
+📂 [Ver repositorio en GitHub](https://github.com/josangldev/portfolio)
+
+<img src="./assets/screenshot-home.png" alt="Captura de pantalla del portfolio" width="500" /> </div>
+
+---
+
 ## 🎓 Formación y Certificaciones
 
 - 🏅 **Certificaciones por Conquer Blocks**:
