@@ -84,15 +84,16 @@ Desarrollado con React, JavaScript y TailwindCSS.
 
 ---
 
-🛍️ eCommerce Web - Tienda Online Interactiva
+### e-Commerce Web - Tienda Online Interactiva
 Explora una tienda online moderna donde podrás filtrar productos por precio o tipo de ropa (hombre/mujer) y navegar con una experiencia visual cuidada. Diseño responsive para todo tipo de dispositivos.
 
 Desarrollado con React, TypeScript y TailwindCSS.
 
 <div align="center">
-🔗 Ver sitio en producción
+  
+🔗 [Ver sitio en producción](https://e-commerce-two-xi-25.vercel.app/)
 
-📂 Ver repositorio en GitHub
+📂 [Ver repositorio en GitHub](https://github.com/josangldev/ecommerce)
 
 <img src="./assets/screen-ecommerce.png" alt="ecommerce web" width="500" /> </div>
 
