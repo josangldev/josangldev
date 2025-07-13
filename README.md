@@ -85,7 +85,7 @@ Desarrollado con React, JavaScript y TailwindCSS.
 ---
 
 ### e-Commerce Web - Tienda Online Interactiva
-Explora una tienda online moderna donde podrás filtrar productos por precio o tipo de ropa (hombre/mujer) y navegar con una experiencia visual cuidada. Diseño responsive para todo tipo de dispositivos.
+Explora una tienda online moderna donde podrás filtrar productos por precio o tipo de ropa (hombre/mujer) y navegar con una experiencia visual cuidada, Fake Store API (fuente de datos de productos). Diseño responsive para todo tipo de dispositivos.
 
 Desarrollado con React, TypeScript y TailwindCSS.
 
