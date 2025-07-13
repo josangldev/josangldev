@@ -112,7 +112,7 @@ La web incluye un sistema de navegación animado, diseño mobile-first y una pre
 
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/portfolio)
 
-<img src="./assets/screenshot-portf.png" alt="Captura de pantalla del portfolio" width="500" /> </div>
+<img src="./assets/screen-portf.png" alt="Captura de pantalla del portfolio" width="500" /> </div>
 
 ---
 
