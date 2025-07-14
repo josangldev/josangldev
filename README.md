@@ -149,11 +149,9 @@ personal.
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=josangldev&theme=dark&hide_border=true)
-
-
 
 ---
 
