@@ -153,7 +153,6 @@ personal.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josangldev&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josangldev&layout=compact&theme=dark&hide_border=true)
 
 </div>
