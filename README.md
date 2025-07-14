@@ -171,7 +171,3 @@ personal.
 ## 🎯 Actualmente
 
 > 🔍 Actualmente en búsqueda de oportunidades como **Desarrollador Frontend Junior**.
-
----
-
-> 🧩 *"No le tengas miedo a los bugs, son tus mejores maestros."*
