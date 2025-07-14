@@ -154,7 +154,7 @@ personal.
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josangldev&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josangldev&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josangldev&theme=dark)](https://git.io/streak-stats)
 
 
 </div>
