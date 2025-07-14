@@ -149,7 +149,12 @@ personal.
 
 ---
 
-[[![GitHub Streak](https://streak-stats.demolab.com?user=josangldev&theme=dark&hide_border=true)](https://git.io/streak-stats)](https://github.com/josangldev)
+# 📊 GitHub Stats
+
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josangldev&show_icons=true&theme=dark&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=josangldev&theme=dark&hide_border=true&count_private=true)](https://git.io/streak-stats)
+
 
 ---
 
