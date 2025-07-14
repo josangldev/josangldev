@@ -44,8 +44,7 @@ Este proyecto es una web estática, visualmente atractiva y responsive, desarrol
 
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/japon-web)
 
-
-  <img src="./assets/screenshot-home.png" alt="japon" width="500" />
+<img src="./assets/screenshot-home.png" alt="japon" width="500" />
 </div>
 
 ---
@@ -60,8 +59,7 @@ Desarrollado con **HTML**, **SCSS** y **JavaScript** puros.
 
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/pokemon-kanto)
 
-
-  <img src="./assets/screen-main.png" alt="pokemon" width="500" />
+<img src="./assets/screen-main.png" alt="pokemon" width="500" />
 </div>
 
 ---
@@ -79,8 +77,6 @@ Desarrollado con React, JavaScript y TailwindCSS.
 📂 [Ver repositorio en GitHub](https://github.com/josangldev/dashboard)
 
 <img src="./assets/screen-dash.png" alt="dashboard" width="500" /> </div>
-
-</div>
 
 ---
 
@@ -138,8 +134,12 @@ personal.
 
 ## 📫 Contacto
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-antonio-garc%C3%ADa-l%C3%B3pez-4ba263347/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gl.josea90@gmail.com)
+
+</div>
 
 ---
 
@@ -149,10 +149,14 @@ personal.
 
 ---
 
-## 📈 GitHub Streak
+## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josangldev&show_icons=true&theme=dark)
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josangldev&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josangldev&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
