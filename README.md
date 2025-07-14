@@ -149,6 +149,11 @@ personal.
 
 ---
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 > 🧩 *"No le tengas miedo a los bugs, son tus mejores maestros."*
 
 <div align="center">
