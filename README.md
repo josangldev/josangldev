@@ -155,12 +155,6 @@ personal.
 
 ---
 
-## 🎯 Actualmente
-
-> 🔍 Actualmente en búsqueda de oportunidades como **Desarrollador Frontend Junior**.
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -174,8 +168,10 @@ personal.
 
 ---
 
-> 🧩 *"No le tengas miedo a los bugs, son tus mejores maestros."*
+## 🎯 Actualmente
 
-<div align="center">
-  <img src="./assets/back.png" alt="Back" width="500" />
-</div>
+> 🔍 Actualmente en búsqueda de oportunidades como **Desarrollador Frontend Junior**.
+
+---
+
+> 🧩 *"No le tengas miedo a los bugs, son tus mejores maestros."*
