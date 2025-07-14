@@ -151,7 +151,8 @@ personal.
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=josangldev&theme=dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josangldev&show_icons=true&theme=dark)
+
 
 ---
 
