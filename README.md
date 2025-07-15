@@ -168,6 +168,6 @@ personal.
 
 ---
 
-## 🎯 
+## 🎯 Actualmente
 
 > 🔍 Actualmente en búsqueda de oportunidades como **Desarrollador Frontend Junior**.
