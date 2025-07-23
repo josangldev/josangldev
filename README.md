@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola👋! Soy Jose Antonio García López
+# ¡Hola 👋! Soy Jose Antonio García López
 
 Soy desarrollador frontend y disfruto construir cosas desde cero, ver cómo una idea toma forma en la pantalla.  
 Me apasiona el mundo web, trabajar con tecnologías modernas y seguir creciendo día a día en este camino que tanto me entusiasma.  
